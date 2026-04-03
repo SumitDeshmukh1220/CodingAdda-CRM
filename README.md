@@ -241,21 +241,6 @@ spring.jpa.defer-datasource-initialization=true
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](https://github.com/SumitDeshmukh1220/CodingAdda-CRM/blob/d681fa585de84213bc419f84feaf8a4cb28d6fb7/Screenshot/HomePage.png****)
-
-| Page | Description |
-|---|---|
-| Home / Courses Page | Public course listing with pricing |
-| Course Detail | Full course info with trainer details |
-| Login | Role-based login screen |
-| Admin Dashboard | Manage courses and employees |
-| Enquiry Management | View and follow up on leads |
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
