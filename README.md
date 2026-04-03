@@ -243,7 +243,8 @@ spring.jpa.defer-datasource-initialization=true
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your application here)*
+### Home Page
+![Home Page]()
 
 | Page | Description |
 |---|---|
